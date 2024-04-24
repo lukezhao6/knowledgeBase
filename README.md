@@ -2,13 +2,16 @@
 写过的文章总结一下发这里，基本都是掘金平台的。
 
 # 目录
-## 杂谈
+### 杂谈
 - [千万别给代码加糟糕的注释，会适得其反](https://juejin.cn/post/7131002901975007262)
 - [程序员都是起名高手，但起一个好名真的不容易](https://juejin.cn/post/7134507039417434143)
 - [从小白到架构师系列(一)啥是架构师嘞](https://juejin.cn/post/7243748398566670392)
 - [Git reset到底该如何使用，一文读懂系列](https://juejin.cn/post/7311681326712242239)
 - [领域驱动设计（DDD）是什么，有什么用？](https://juejin.cn/post/7350555794145886245)
-## 项目优化
+- [拿到一个新的服务器时需要的操作](https://juejin.cn/post/7046397482556719117)
+- [手把手教你搭建一个属于自己的数字图书馆](https://juejin.cn/post/7115051437071007781)
+- [对接了个三方支付，给俺气的呀](https://juejin.cn/post/7127691522010529799)
+### 项目优化
 - [优雅的接口调优之本地缓存优化](https://juejin.cn/post/7317489683037749298)
 - [优雅的接口调优之并行处理优化](https://juejin.cn/post/7317843568207069194)
 - [优雅的接口调优之大事务优化](https://juejin.cn/post/7329363655815807014)
@@ -18,7 +21,7 @@
 - [优雅地接口调优之上下文优化](https://juejin.cn/post/7330839699806633994)
 - [优雅地接口调优之内存大小优化](https://juejin.cn/post/7331070714766311450)
 - [优雅地接口调优之批量处理优化](https://juejin.cn/post/7336799230978261029)
-## java
+### java
 - [Arrays.asList() 都有什么隐藏的陷阱？](https://juejin.cn/post/7337147602851446810)
 - [Java中如何优雅的处理异常](https://juejin.cn/post/7131374937289277447)
 - [Java基础捋一捋--Spring](https://juejin.cn/post/6908331084958990344)
@@ -99,11 +102,11 @@
 - [Eureka 服务注册与发现](https://juejin.cn/post/7111321838755512357)
 - [分布式事务解决方案-Seata](https://juejin.cn/post/7112077534761779231)
 - [Spring Security，单点登录和session共享](https://juejin.cn/post/7114292426281320478)
-## 系统设计
+### 系统设计
 - [高可用系统设计原则](https://juejin.cn/post/6922721695274893320)
 - [分布式事务简介](https://juejin.cn/post/7110942865894686733)
 - [高并发业务架构设计思路](https://juejin.cn/post/7112450589669195790)
-## RocketMq
+### RocketMq
 - [Linux安装RocketMQ](https://juejin.cn/post/6896477242064142349)
 - [Java面试冲刺--一起来搞懂【消息队列】](https://juejin.cn/post/6903884460862996494)
 - [以一个故事的角度展开RocketMQ](https://juejin.cn/post/7125408515060924430)
@@ -129,14 +132,14 @@
 - [RocketMQ普通消息实战演练](https://juejin.cn/post/7134336877431586830)
 - [RocketMQ各种消息的生产与消费Demo](https://juejin.cn/post/7135091427171631112)
 - [RocketMQ的神经中枢：NameServer全面解析](https://juejin.cn/post/7357006184475312164)
-## RabbilMQ
+### RabbilMQ
 - [RabbitMQ介绍](https://juejin.cn/post/7102080912023617544)
 - [RabbitMQ安装及完整架构](https://juejin.cn/post/7102474604945342500)
 - [RabbitMQ通讯方式](https://juejin.cn/post/7103159990034595877)
 - [SpringBoot操作RabbitMQ](https://juejin.cn/post/7103198868715601927)
 - [RabbitMQ保证消息可靠性](https://juejin.cn/post/7103564840458780709)
 - [RabbitMQ死信队列&延迟交换机](https://juejin.cn/post/7104416066058584077)
-## mysql
+### mysql
 - [万一删了库，别急着跑路，恢复数据轻松拿捏](https://juejin.cn/post/7331316989170499593)
 - [mysql8相比5.7都修改了什么?](https://juejin.cn/post/7332305320121286665)
 - [Mysql安装简易版](https://juejin.cn/post/7047132099781853198)
@@ -152,16 +155,16 @@
 - [MySQL建索引你所不知道的二三事](https://juejin.cn/post/7332014308934172698)
 - [手写JDBC](https://juejin.cn/post/6873095929168297998)
 - [一文初探分布式数据库](https://juejin.cn/post/7347958786050621491)
-## MyBatis
+### MyBatis
 - [MyBatis基础总结（新手勿入）](https://juejin.cn/post/6910903604698152973)
-## Spring Data JPA
+### Spring Data JPA
 - [Spring Data JPA渐进式学习--简介与demo](https://juejin.cn/post/7135826976153501703)
 - [Spring Data JPA渐进式学习--Repostory](https://juejin.cn/post/7136202511911747620)
 - [Spring Data JPA渐进式学习--如何自定义查询方法呢？](https://juejin.cn/post/7136566779282718751)
 - [Spring Data JPA渐进式学习--Repository的返回值都可可以是哪些呢？](https://juejin.cn/post/7136929867471257636)
 - [Spring Data JPA渐进式学习--@Query的使用方法](https://juejin.cn/post/7137322058991534111)
 - [Spring Data JPA渐进式学习--@Entity等注解的使用](https://juejin.cn/post/7138046310623477773)
-## Redis
+### Redis
 - [不知名小公司一面：如何更好的遍历 Redis 中的海量数据？](https://juejin.cn/post/7335504805245681702)
 - [Redis基础](https://juejin.cn/post/7086869037333872676)
 - [Redis进阶使用](https://juejin.cn/post/7087582200215896101)
@@ -182,21 +185,18 @@
 - [redis进阶篇--慢查询分析](https://juejin.cn/post/7152128187969830926)
 - [小白都能看懂的Redis进阶篇--特殊的数据类型Bitmaps](https://juejin.cn/post/7152517450280468487)
 - [redis分布式锁的最佳实践](https://juejin.cn/post/7311216938750885940)
-## Docker
+### Docker
 - [Docker基础](https://juejin.cn/post/6899821428330692622)
-## Zookeeper
+### Zookeeper
 - [Zookeeper单机安装](https://juejin.cn/post/6890047078924288007)
 - [搭建Zookeeper集群](https://juejin.cn/post/6890074907485569032)
 - [zookeeper基础](https://juejin.cn/post/7089823119166144549)
-## ElasticSearch
+### ElasticSearch
 - [ElasticSearch7.9.2安装](https://juejin.cn/post/6896477298002755598)
-## 区块链
+### 区块链
 - [区块链技术与应用](https://juejin.cn/post/6890164510515003405)
-## shell
+### shell
 - [shell脚本应用笔记](https://juejin.cn/post/6890168031062786062)
-## 其他
-- [拿到一个新的服务器时需要的操作](https://juejin.cn/post/7046397482556719117)
-- [手把手教你搭建一个属于自己的数字图书馆](https://juejin.cn/post/7115051437071007781)
-- [对接了个三方支付，给俺气的呀](https://juejin.cn/post/7127691522010529799)
+
 
   
