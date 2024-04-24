@@ -14,3 +14,4 @@
 
 ## Zookeeper
 - [Zookeeper单机安装](https://juejin.cn/post/6890047078924288007)
+- [搭建Zookeeper集群](https://juejin.cn/post/6890074907485569032)
